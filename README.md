@@ -2,13 +2,15 @@ Cypress is a JavaScript end-to-end testing framework that allows you to write te
 
 ## Before Running Test install cyress: 
    
-   `./node_modules/.bin/cypress install`
+   
 
 1. clone git repository ( $ `https://github.com/amit-003/Hotel-search-test.git`)
 
 2. $ `cd Hotel-search-test`
 
-3. run command 
+3. `./node_modules/.bin/cypress install`
+
+4. run command 
    $ `npm install`
 
 
